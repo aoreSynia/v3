@@ -1,0 +1,42 @@
+{
+  "CanLootEnemyContainers": false,
+  "TeleportBoundItems": false,
+  "InventoryStacksModifier": 2.0,
+  "MaterialYieldModifier_Global": 1.5,
+  "ClanSize": 20,
+  "CraftRateModifier": 1.25,
+  "RefinementRateModifier": 2.0,
+  "Death_DurabilityFactorLoss": 0.5,
+  "VBloodUnitSettings": [],
+  "UnlockedAchievements": [],
+  "UnlockedResearchs": [],
+  "GameTimeModifiers": {},
+  "VampireStatModifiers": {},
+  "EquipmentStatModifiers_Global": {},
+  "CastleStatModifiers_Global": {
+    "HeartLimits": {
+      "Level1": {},
+      "Level2": {},
+      "Level3": {},
+      "Level4": {},
+      "Level5": {}
+    }
+  },
+  "PlayerInteractionSettings": {
+    "VSPlayerWeekdayTime": {},
+    "VSPlayerWeekendTime": {},
+    "VSCastleWeekdayTime": {},
+    "VSCastleWeekendTime": {}
+  },
+  "TraderModifiers": {
+    "RestockTimerModifier": 0.5
+  },
+  "WarEventGameSettings": {
+    "WeekdayTime": {},
+    "WeekendTime": {},
+    "ScalingPlayers1": {},
+    "ScalingPlayers2": {},
+    "ScalingPlayers3": {},
+    "ScalingPlayers4": {}
+  }
+}
