@@ -1,5 +1,6 @@
 {
   "Name": "Hang Soi Server",
+  "MaxConnectedUsers": 10,
   "Password": "2111",
   "API": {},
   "Rcon": {}
