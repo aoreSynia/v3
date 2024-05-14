@@ -1,11 +1,15 @@
 {
+  "RelicSpawnType": 1,
   "CanLootEnemyContainers": false,
   "TeleportBoundItems": false,
-  "InventoryStacksModifier": 2.0,
-  "MaterialYieldModifier_Global": 1.5,
+  "InventoryStacksModifier": 3.0,
+  "DropTableModifier_General": 2.25,
+  "DropTableModifier_Missions": 3.0,
+  "MaterialYieldModifier_Global": 2.25,
   "ClanSize": 20,
-  "CraftRateModifier": 1.25,
+  "CraftRateModifier": 2.0,
   "RefinementRateModifier": 2.0,
+  "ServantConvertRateModifier": 6.0,
   "Death_DurabilityFactorLoss": 0.5,
   "VBloodUnitSettings": [],
   "UnlockedAchievements": [],
@@ -32,6 +36,9 @@
     "RestockTimerModifier": 0.5
   },
   "WarEventGameSettings": {
+    "Interval": 0,
+    "MajorDuration": 2,
+    "MinorDuration": 0,
     "WeekdayTime": {},
     "WeekendTime": {},
     "ScalingPlayers1": {},
