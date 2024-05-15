@@ -37,7 +37,7 @@
   },
   "WarEventGameSettings": {
     "Interval": 0,
-    "MajorDuration": 2,
+    "MajorDuration": 0,
     "MinorDuration": 0,
     "WeekdayTime": {},
     "WeekendTime": {},
